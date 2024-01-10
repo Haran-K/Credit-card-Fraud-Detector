@@ -26,7 +26,7 @@ To run the project, you can use the following command:
 
 1. After installing the dependencies, you can clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/Muhammad-Talha4k/Credit-Card-Fraud-Detection.git
+   git clone https://github.com/Haran-K/Credit-card-Fraud-Detector.git
 
 The notebook contain the code and explanation of the task.
 
